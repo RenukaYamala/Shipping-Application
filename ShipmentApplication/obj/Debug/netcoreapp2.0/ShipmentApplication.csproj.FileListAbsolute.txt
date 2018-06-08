@@ -1,0 +1,11 @@
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\bin\Debug\netcoreapp2.0\ShipmentApplication.deps.json
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\bin\Debug\netcoreapp2.0\ShipmentApplication.runtimeconfig.json
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\bin\Debug\netcoreapp2.0\ShipmentApplication.runtimeconfig.dev.json
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\bin\Debug\netcoreapp2.0\ShipmentApplication.dll
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\bin\Debug\netcoreapp2.0\ShipmentApplication.pdb
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.csproj.CoreCompileInputs.cache
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.AssemblyInfoInputs.cache
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.AssemblyInfo.cs
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.dll
+c:\users\renuka.yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.pdb
+C:\Users\Renuka.Yamala\source\repos\ShipmentApplication\ShipmentApplication\obj\Debug\netcoreapp2.0\ShipmentApplication.csprojAssemblyReference.cache
